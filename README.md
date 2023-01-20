@@ -1,3 +1,5 @@
+Will edit this soon
+
 # Personal portfolio
 
 [![Site preview](/public/site-preview.png)](https://hamishw.com)
